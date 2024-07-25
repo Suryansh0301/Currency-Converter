@@ -1,4 +1,7 @@
+<img src="Screenshot 2024-07-25 163755.png">
+
 # Currency Converter
+
 Features:
 
 <li>Real-Time Exchange Rates: Integrated a reliable currency exchange rates API to fetch up-to-date conversion rates.</li>
