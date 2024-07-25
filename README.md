@@ -1,6 +1,6 @@
-<img src="Screenshot 2024-07-25 163755.png">
-
 # Currency Converter
+
+<img src="Screenshot 2024-07-25 163755.png">
 
 Features:
 
